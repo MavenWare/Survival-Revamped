@@ -8,7 +8,7 @@ List of every feature provided.
 
 ## Health & Consuming
 - Hunger and Health are tied together.
-- You have zero saturation at night.
+- You have zero saturation.
 - If under 5 hearts, you have Slowness.
 - If under 3 hearts, you also have Blindess.
 - If at or under 1 heart, you also have Mining Fatigue.
@@ -19,8 +19,6 @@ List of every feature provided.
 
 ## Worlds
 - Lightning strikes cause a tiny explosion.
-- You have zero saturation in the Nether.
-- You have zero saturation in deserts / badlands.
 - If you do not have a helmet on while its raining, you get Weakness.
 - If under Y level 20, you get blindness if you do not have a item that gives off light in one of your hands.
 
