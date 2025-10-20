@@ -19,7 +19,7 @@ List of every feature provided.
 
 ## Worlds
 - Lightning strikes cause a tiny explosion.
-- If you do not have a helmet on while its raining, you get Weakness.
+- When it rains, you have Weakness 2, meaning armed attacks are useless.
 - If under Y level 20, you get blindness if you do not have a item that gives off light in one of your hands.
 
 ## Mobs
