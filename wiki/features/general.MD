@@ -24,8 +24,8 @@ List of every feature provided.
 
 ## Mobs
 - Monsters will have Speed 1 when they go after someone.
-- Getting spit on by llamas will give you Nausea for 10 seconds.
-- If an Enderman targets you, you get Blindness for 10 seconds.
+- Getting spit on by llamas will give you Nausea for 20 seconds.
+- If an Enderman targets you, you get Blindness for 20 seconds.
 
 ## Leveling & XP
 - Must be at or above level 1 to break blocks unless they're plants, crops, etc.
