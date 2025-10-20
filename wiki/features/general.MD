@@ -30,7 +30,7 @@ List of every feature provided.
 ## Leveling & XP
 - Must be at or above level 1 to break blocks unless they're plants, crops, etc.
 - Must be at or above level 50 to enter portals in the overworld.
-- Killing mobs at night will grant you 20 XP.
+- Killing monsters at night will grant you 20 XP.
 - Killing mobs while at or under 2 hearts will grant you 20 XP.
 - Leveling up every 5 levels will fill your hearts/food level.
 
