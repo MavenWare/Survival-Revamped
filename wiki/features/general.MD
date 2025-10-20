@@ -9,8 +9,8 @@ List of every feature provided.
 ## Health & Consuming
 - Hunger and Health are tied together.
 - You have zero saturation.
-- If under 5 hearts, you have Slowness.
-- If under 3 hearts, you also have Blindess.
+- If at or under 5 hearts, you have Slowness.
+- If at or under 3 hearts, you also have Blindess.
 - If at or under 1 heart, you also have Mining Fatigue.
 - Eating raw food will give you Weakness for 2 minutes and Nausea for 10 seconds.
 - Cannot consume items for 4 seconds after getting hurt or while under Mining Fatigue.
